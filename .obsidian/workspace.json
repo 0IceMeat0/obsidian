@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa02cb026ccd11f6",
+        "id": "6c17f7331603af21",
         "type": "tabs",
         "children": [
           {
-            "id": "f6fe69c4bbfff447",
+            "id": "d828c63075f29f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Web/HTML/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Web/HTML/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Web/HTML/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Web/HTML/Untitled.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,6 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6fe69c4bbfff447",
-  "lastOpenFiles": []
+  "active": "d828c63075f29f57",
+  "lastOpenFiles": [
+    "Web/CSS/Untitled.md",
+    "Web/HTML/Untitled.md",
+    "Web/Первый лист.md",
+    "html/Первый лист.md",
+    "html",
+    "Web/CSS",
+    "Web/HTML",
+    "README.md"
+  ]
 }
