@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00fa8a540c96a895",
+        "id": "6c17f7331603af21",
         "type": "tabs",
         "children": [
           {
-            "id": "a92682ef9327165a",
+            "id": "d828c63075f29f57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Первый лист.md",
+                "file": "Web/CSS/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Первый лист.md",
+                "file": "Web/CSS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Первый лист.md",
+                "file": "Web/CSS/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Первый лист.md"
+                "file": "Web/CSS/Untitled.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "578ac1aa6961b0b3",
+  "active": "d828c63075f29f57",
   "lastOpenFiles": [
+    "Web/Первый лист.md",
+    "Web/CSS/Untitled.md",
+    "html/Первый лист.md",
+    "html",
     "Web/CSS",
     "Web/HTML",
-    "Web/Первый лист.md",
     "README.md"
   ]
 }
