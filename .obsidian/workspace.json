@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS/Untitled.md",
+                "file": "Web/HTML/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Untitled.md",
+                "file": "Web/HTML/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Untitled.md",
+                "file": "Web/HTML/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Untitled.md"
+                "file": "Web/HTML/Untitled.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d828c63075f29f57",
   "lastOpenFiles": [
-    "Web/Первый лист.md",
     "Web/CSS/Untitled.md",
+    "Web/HTML/Untitled.md",
+    "Web/Первый лист.md",
     "html/Первый лист.md",
     "html",
     "Web/CSS",
