@@ -11,12 +11,8 @@
             "id": "8947e5e270475576",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/HTML/HTML.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/HTML/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/HTML/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web/HTML/HTML.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,7 +141,9 @@
   "active": "8947e5e270475576",
   "lastOpenFiles": [
     "Web/Web API/Web API.md",
+    "Web/Web API",
     "Web/HTML/HTML.md",
+    "Web/HTML/Untitled.md",
     "README.md",
     "CodeWars/Правила Оформления Задач.md",
     "Web/Web API/Из чего состоит HTTP запрос.md",
@@ -158,7 +152,6 @@
     "Untitled.md",
     "().md",
     "Web/Первый лист.md",
-    "Web/Web API",
     "CodeWars/Task/4/Задача.md",
     "CodeWars/Task/5/Задача.md",
     "CodeWars/Task/6/Задача.md",
