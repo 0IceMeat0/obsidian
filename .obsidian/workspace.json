@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c17f7331603af21",
+        "id": "bf3d9438f692e2d4",
         "type": "tabs",
         "children": [
           {
-            "id": "d828c63075f29f57",
+            "id": "8947e5e270475576",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/HTML/Untitled.md",
-                "mode": "source",
+                "file": "Web/HTML/HTML.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/HTML/Untitled.md",
+                "file": "Web/HTML/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/HTML/Untitled.md",
+                "file": "Web/HTML/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/HTML/Untitled.md"
+                "file": "Web/HTML/HTML.md"
               }
             }
           }
@@ -146,15 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d828c63075f29f57",
+  "active": "8947e5e270475576",
   "lastOpenFiles": [
-    "Web/CSS/Untitled.md",
+    "CodeWars/Правила Оформления Задач.md",
+    "Web/Web API/Web API.md",
+    "Web/Web API",
+    "Web/HTML/HTML.md",
     "Web/HTML/Untitled.md",
+    "README.md",
+    "Web/Web API/Из чего состоит HTTP запрос.md",
+    "Web/Web API/Что такое HTTP.md",
+    "Web/Web API/Список возможных вопросов.md",
+    "Untitled.md",
+    "().md",
     "Web/Первый лист.md",
-    "html/Первый лист.md",
-    "html",
-    "Web/CSS",
+    "CodeWars/Task/4/Задача.md",
+    "CodeWars/Task/5/Задача.md",
+    "CodeWars/Task/6/Задача.md",
+    "CodeWars/Task/7/Задача.md",
+    "CodeWars/Task/8/Задача.md",
+    "CodeWars/Task/8",
+    "CodeWars/Task/7",
+    "CodeWars/Task/6",
+    "CodeWars/Task/5",
+    "CodeWars/Task/4",
+    "CodeWars/Task",
+    "CodeWars",
+    "Web/CSS/Untitled.md",
     "Web/HTML",
-    "README.md"
+    "Web/CSS",
+    "html/Первый лист.md",
+    "Untitled.canvas"
   ]
 }
