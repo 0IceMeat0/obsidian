@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Web/Возможные вопросы/Web API.md",
+                "file": "Web/HTML/HTML.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Web/Возможные вопросы/Web API.md",
+                "file": "Web/HTML/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Web/Возможные вопросы/Web API.md",
+                "file": "Web/HTML/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Web/Возможные вопросы/Web API.md"
+                "file": "Web/HTML/HTML.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "578ac1aa6961b0b3",
   "lastOpenFiles": [
-    "Web/Web/Возможные вопросы/Web Technologies.md",
+    "React/Возможные вопросы/React.md",
+    "Js/Прототип и его наследование.md",
+    "Js/Функции Высшего порядка.md",
+    "Js/Переменные.md",
+    "Js/Каррирование.md",
+    "Js/Операторы сравнения.md",
+    "Js/Генераторы.md",
+    "Js/this.md",
+    "Js/use strict.md",
+    "Js/Promise.md",
+    "Js/Event Loop.md",
     "Web/Web/Возможные вопросы/Web API.md",
+    "Web/Web/Возможные вопросы/Web Technologies.md",
     "Web/CSS/CSS.md",
     "Web/HTML/HTML.md",
     "Js/Возможные вопросы/Async JS.md",
@@ -157,7 +168,6 @@
     "Js/Возможные вопросы/JS in Browser.md",
     "Js/Возможные вопросы/JS.md",
     "Js/Возможные вопросы/ECMAScript.md",
-    "React/Возможные вопросы/React/React.md",
     "Web/Web/Возможные вопросы",
     "Web/Web/ООП.md",
     "README.md",
@@ -173,16 +183,7 @@
     "React/Компоненты Жизненного Цикла.md",
     "React/Virtual Dom.md",
     "React/Props, State, Children.md",
-    "React/JSX.md",
-    "React/Portal.md",
-    "React/Key.md",
-    "React/HOC.md",
-    "React/CSS-MODULE.md",
-    "React/Code Splitting.md",
     "React",
-    "Js/Функции Высшего порядка.md",
-    "Js/Прототип и его наследование.md",
-    "Js/Переменные.md",
     "Untitled.canvas"
   ]
 }
