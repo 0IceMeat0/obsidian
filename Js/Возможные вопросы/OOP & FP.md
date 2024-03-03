@@ -1,0 +1,1 @@
+[Возможные вопросы](https://andreev-oe.notion.site/OOP-FP-4c390e5875cf4c84b054acb15cacdec3)

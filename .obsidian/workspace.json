@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSS/Untitled.md",
-                "mode": "source",
+                "file": "Web/Web/Возможные вопросы/Web API.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/CSS/Untitled.md",
+                "file": "Web/Web/Возможные вопросы/Web API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/CSS/Untitled.md",
+                "file": "Web/Web/Возможные вопросы/Web API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/CSS/Untitled.md"
+                "file": "Web/Web/Возможные вопросы/Web API.md"
               }
             }
           }
@@ -146,10 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec38e983a8bf9466",
+  "active": "578ac1aa6961b0b3",
   "lastOpenFiles": [
+    "Web/Web/Возможные вопросы/Web Technologies.md",
+    "Web/Web/Возможные вопросы/Web API.md",
     "Web/CSS/CSS.md",
-    "Web/Web API/ООП.md",
+    "Web/HTML/HTML.md",
+    "Js/Возможные вопросы/Async JS.md",
+    "Js/Возможные вопросы/OOP & FP.md",
+    "Js/Возможные вопросы/JS in Browser.md",
+    "Js/Возможные вопросы/JS.md",
+    "Js/Возможные вопросы/ECMAScript.md",
+    "React/Возможные вопросы/React/React.md",
+    "Web/Web/Возможные вопросы",
+    "Web/Web/ООП.md",
+    "README.md",
+    "Js/Возможные вопросы/OOP & FP",
+    "React/Возможные вопросы/React",
+    "React/Возможные вопросы",
+    "Js/Возможные вопросы/JS in Browser",
+    "Js/Возможные вопросы/ECMAScript",
+    "Js/Возможные вопросы/Async JS",
+    "Js/Возможные вопросы/JS",
+    "Js/Возможные вопросы",
     "React/Хуки.md",
     "React/Компоненты Жизненного Цикла.md",
     "React/Virtual Dom.md",
@@ -164,26 +183,6 @@
     "Js/Функции Высшего порядка.md",
     "Js/Прототип и его наследование.md",
     "Js/Переменные.md",
-    "Js/Отличие стрелочной от простой функции.md",
-    "Js/Операторы сравнения.md",
-    "Js/Каррирование.md",
-    "Js/Генераторы.md",
-    "Js/use strict.md",
-    "Js/this.md",
-    "Js/Promise.md",
-    "Js/Event Loop.md",
-    "Js/call apply bind.md",
-    "Js",
-    "CodeWars/Task/8/Задачи.md",
-    "CodeWars/Task/7/Задачи.md",
-    "Web/Web API",
-    "CodeWars/Task/8",
-    "CodeWars/Task/7",
-    "CodeWars/Task/6",
-    "CodeWars/Task/5",
-    "CodeWars/Task/4",
-    "CodeWars/Task",
-    "CodeWars",
     "Untitled.canvas"
   ]
 }
